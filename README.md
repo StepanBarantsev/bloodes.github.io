@@ -139,66 +139,66 @@ display: none;
 	
 Список использованной музыки (примечание по поводу Lizzard Music читайте ниже):
 	
-	Музыка из главного меню: 
-		Название: Война
-		Автор: Lizzard Music
-		Cсылка: <a href=https://vk.com/lizzard_music>https://vk.com/lizzard_music</a> 
+Музыка из главного меню: 
+	Название: Война
+	Автор: Lizzard Music
+	Cсылка: <a href=https://vk.com/lizzard_music>https://vk.com/lizzard_music</a> 
 	
-	Основная тема, играющая на фоне до начала допросов: 
-		Название: Orchestral upbeat
-		Автор: phenoxyethanol
-		Cсылка: <a href=https://freesound.org/people/phenoxyethanol/sounds/415909/>https://freesound.org/people/phenoxyethanol/sounds/415909/</a> 
+Основная тема, играющая на фоне до начала допросов: 
+	Название: Orchestral upbeat
+	Автор: phenoxyethanol
+	Cсылка: <a href=https://freesound.org/people/phenoxyethanol/sounds/415909/>https://freesound.org/people/phenoxyethanol/sounds/415909/</a> 
 	
-	Основная тема, играющая на фоне после допросов: 
-		Название: Orchestral Music (rather calm)
-		Автор: borralbi
-		Cсылка: <a href=https://freesound.org/people/borralbi/sounds/336365/>https://freesound.org/people/borralbi/sounds/336365/</a> 
+Основная тема, играющая на фоне после допросов: 
+	Название: Orchestral Music (rather calm)
+	Автор: borralbi
+	Cсылка: <a href=https://freesound.org/people/borralbi/sounds/336365/>https://freesound.org/people/borralbi/sounds/336365/</a> 
 	
-	Тема эльфа:
-		Название: Piano Remix 
-		Автор: cheesepuff 
-		Cсылка: <a href=https://freesound.org/people/cheesepuff/sounds/112071/>https://freesound.org/people/cheesepuff/sounds/112071/</a> 
+Тема эльфа:
+	Название: Piano Remix 
+	Автор: cheesepuff 
+	Cсылка: <a href=https://freesound.org/people/cheesepuff/sounds/112071/>https://freesound.org/people/cheesepuff/sounds/112071/</a> 
 	
-	Тема человека: 
-		Название: Hip Hop | Beats » Inspiring Dramatic Beat #02
-		Автор: tyops
-		Cсылка: <a href=https://freesound.org/people/tyops/sounds/344779/>https://freesound.org/people/tyops/sounds/344779/</a> 
+Тема человека: 
+	Название: Hip Hop | Beats » Inspiring Dramatic Beat #02
+	Автор: tyops
+	Cсылка: <a href=https://freesound.org/people/tyops/sounds/344779/>https://freesound.org/people/tyops/sounds/344779/</a> 
 	
-	Тема гнома:
-		Название: Accordion Improvisation 02
-		Автор: Tristan_Lohengrin
-		Ссылка: <a href=https://freesound.org/people/Tristan_Lohengrin/sounds/259295/>https://freesound.org/people/Tristan_Lohengrin/sounds/259295/</a>
-		Cсылка (автор музыки просит ее указать): <a href=https://www.tristanlohengrin.fr/>https://www.tristanlohengrin.fr/</a>
+Тема гнома:
+	Название: Accordion Improvisation 02
+	Автор: Tristan_Lohengrin
+	Ссылка: <a href=https://freesound.org/people/Tristan_Lohengrin/sounds/259295/>https://freesound.org/people/Tristan_Lohengrin/sounds/259295/</a>
+	Cсылка (автор музыки просит ее указать): <a href=https://www.tristanlohengrin.fr/>https://www.tristanlohengrin.fr/</a>
 	
-	Тема вампира: 
-		Название: Хз (возможно его нет)
-		Автор: Lizzard Music
-		Cсылка: <a href=https://vk.com/lizzard_music>https://vk.com/lizzard_music</a> 
+Тема вампира: 
+	Название: Хз (возможно его нет)
+	Автор: Lizzard Music
+	Cсылка: <a href=https://vk.com/lizzard_music>https://vk.com/lizzard_music</a> 
 	
-	Тема вурдалака: 
-		Название: Fiddlin' Around » Denver Belle 
-		Автор: ecfike
-		Cсылка: <a href=https://freesound.org/people/ecfike/sounds/135128/>https://freesound.org/people/ecfike/sounds/135128/</a> 
+Тема вурдалака: 
+	Название: Fiddlin' Around » Denver Belle 
+	Автор: ecfike
+	Cсылка: <a href=https://freesound.org/people/ecfike/sounds/135128/>https://freesound.org/people/ecfike/sounds/135128/</a> 
 	
-	Тема некроманта: 
-		Название: Soundtrack music » thrill orchestral strings brass choir ensemble
-		Автор: oymaldonado
-		Cсылка: <a href=https://freesound.org/people/oymaldonado/sounds/442751/>https://freesound.org/people/oymaldonado/sounds/442751/</a> 
+Тема некроманта: 
+	Название: Soundtrack music » thrill orchestral strings brass choir ensemble
+	Автор: oymaldonado
+	Cсылка: <a href=https://freesound.org/people/oymaldonado/sounds/442751/>https://freesound.org/people/oymaldonado/sounds/442751/</a> 
 	
-	Тема охотников за вурдалаками: 
-		Название: Хз (возможно его нет)
-		Автор: Lizzard Music
-		Cсылка: <a href=https://vk.com/lizzard_music>https://vk.com/lizzard_music</a>  
+Тема охотников за вурдалаками: 
+	Название: Хз (возможно его нет)
+	Автор: Lizzard Music
+	Cсылка: <a href=https://vk.com/lizzard_music>https://vk.com/lizzard_music</a>  
 	
-	Музыка, играющая при победе: 
-		Название: Вальс-Фантазия
-		Автор: Lizzard Music
-		Cсылка: <a href=https://vk.com/lizzard_music>https://vk.com/lizzard_music</a>  
+Музыка, играющая при победе: 
+	Название: Вальс-Фантазия
+	Автор: Lizzard Music
+	Cсылка: <a href=https://vk.com/lizzard_music>https://vk.com/lizzard_music</a>  
 	
-	Музыка, играющая при поражении:
-		Название: Поражение
-		Автор: Lizzard Music
-		Cсылка: <a href=https://vk.com/lizzard_music>https://vk.com/lizzard_music</a> 
+Музыка, играющая при поражении:
+	Название: Поражение
+	Автор: Lizzard Music
+	Cсылка: <a href=https://vk.com/lizzard_music>https://vk.com/lizzard_music</a> 
 </p>
 <p>
 Как можно видеть, почти все композиции я брал с сайта https://freesound.org. Однако есть ряд композиций, которые я взял у некоего Lizzard Music.
