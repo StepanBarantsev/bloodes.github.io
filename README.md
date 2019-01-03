@@ -140,14 +140,14 @@ display: none;
 Список использованной музыки (примечание по поводу Lizzard Music читайте ниже):
 	
 Музыка из главного меню: 
-	Название: Война
-	Автор: Lizzard Music
-	Cсылка: <a href=https://vk.com/lizzard_music>https://vk.com/lizzard_music</a> 
+	    Название: Война
+	    Автор: Lizzard Music
+	    Cсылка: <a href=https://vk.com/lizzard_music>https://vk.com/lizzard_music</a> 
 	
 Основная тема, играющая на фоне до начала допросов: 
-	Название: Orchestral upbeat
-	Автор: phenoxyethanol
-	Cсылка: <a href=https://freesound.org/people/phenoxyethanol/sounds/415909/>https://freesound.org/people/phenoxyethanol/sounds/415909/</a> 
+		Название: Orchestral upbeat
+		Автор: phenoxyethanol
+		Cсылка: <a href=https://freesound.org/people/phenoxyethanol/sounds/415909/>https://freesound.org/people/phenoxyethanol/sounds/415909/</a> 
 	
 Основная тема, играющая на фоне после допросов: 
 	Название: Orchestral Music (rather calm)
