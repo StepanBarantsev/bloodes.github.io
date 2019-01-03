@@ -140,9 +140,9 @@ display: none;
 Список использованной музыки (примечание по поводу Lizzard Music читайте ниже):
 	
 Музыка из главного меню: 
-	    Название: Война
-	    Автор: Lizzard Music
-	    Cсылка: <a href=https://vk.com/lizzard_music>https://vk.com/lizzard_music</a> 
+	&nbsp;&nbsp;&nbsp;&nbsp;Название: Война
+	&nbsp;&nbsp;&nbsp;&nbsp;Автор: Lizzard Music
+	&nbsp;&nbsp;&nbsp;&nbsp;Cсылка: <a href=https://vk.com/lizzard_music>https://vk.com/lizzard_music</a> 
 	
 Основная тема, играющая на фоне до начала допросов: 
 		Название: Orchestral upbeat
