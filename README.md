@@ -123,7 +123,7 @@ display: none;
 <p><a name="Legal_Notice" id="Legal_Notice"></a></p> 
 <h2><span class="editsection">[<a href="/w/index.php?title=renpy/Help&amp;action=edit&amp;section=4" title="Edit section: Legal Notice">edit</a>]</span> <span class="mw-headline">Официальное уведомление</span></h2> 
 <p>Эта игра использует исходный код различных проектов с открытым кодом. Со списком, а также с местонахождением исходного кода, откуда он может быть скачан, можно ознакомиться в файле LICENSE.txt, который находится в папке renpy, или посетить <a href="http://www.renpy.org/wiki/renpy/License" class="external free" title="http://www.renpy.org/wiki/renpy/License" rel="nofollow">http://www.renpy.org/wiki/renpy/License</a> .</p> 
-<h2><span class="editsection">[<a href="/w/index.php?title=renpy/Help&amp;action=edit&amp;section=4" title="Edit section: Legal Notice">edit</a>]</span> <span class="mw-headline">Информация от создателя игры.</span></h2> 
+<h2><span class="mw-headline">Информация от создателя игры.</span></h2> 
 <pre  style="font-family: Verdana, Arial, Helvetica, sans-serif;">
 Создатель игры: Баранцев Степан (stepan.barantsev@gmail.com)
 Кроме того, со мной можно связаться в телеграмме: <a href=https://t-do.ru/Bloodes>https://t-do.ru/Bloodes</a>
