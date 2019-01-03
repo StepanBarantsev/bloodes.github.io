@@ -124,7 +124,7 @@ display: none;
 <h2><span class="editsection">[<a href="/w/index.php?title=renpy/Help&amp;action=edit&amp;section=4" title="Edit section: Legal Notice">edit</a>]</span> <span class="mw-headline">Официальное уведомление</span></h2> 
 <p>Эта игра использует исходный код различных проектов с открытым кодом. Со списком, а также с местонахождением исходного кода, откуда он может быть скачан, можно ознакомиться в файле LICENSE.txt, который находится в папке renpy, или посетить <a href="http://www.renpy.org/wiki/renpy/License" class="external free" title="http://www.renpy.org/wiki/renpy/License" rel="nofollow">http://www.renpy.org/wiki/renpy/License</a> .</p> 
 <h2><span class="mw-headline">Информация от создателя игры.</span></h2> 
-<p  style="font-family: Verdana, Arial, Helvetica, sans-serif;">
+<pre  style="font-family: Verdana, Arial, Helvetica, sans-serif;">
 Создатель игры: Баранцев Степан (stepan.barantsev@gmail.com)
 Кроме того, со мной можно связаться в телеграмме: <a href=https://t-do.ru/Bloodes>https://t-do.ru/Bloodes</a>
 
@@ -199,7 +199,7 @@ display: none;
 	Название: Поражение
 	Автор: Lizzard Music
 	Cсылка: <a href=https://vk.com/lizzard_music>https://vk.com/lizzard_music</a> 
-</p>
+</pre>
 <p>
 Как можно видеть, почти все композиции я брал с сайта https://freesound.org. Однако есть ряд композиций, которые я взял у некоего Lizzard Music.
 Это мой друг-музыкант, он мне разрешил использовать любую его музыку. На момент написания readme-файла (02.01.2019), группа Lizzard Music является закрытой, поэтому по указанной ссылке в текущих условиях туда попасть не выйдет.
